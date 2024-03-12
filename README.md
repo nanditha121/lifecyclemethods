@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: kayyuru Tharani
-Registeration Number : 212221040080
+Developed by: Narra Nanditha
+Registeration Number : 212221040111
 */
 
 import android.os.Bundle;
